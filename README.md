@@ -20,7 +20,7 @@
 <gallery-container delay="2000" color="795548">
     <gallery-text>My favorite instrument is trumpet.</gallery-text>
     <gallery-photo
-            src="http://music-4-less.com/gallery/TT-280S.jpg"
+            src="http://medleyana.files.wordpress.com/2013/10/elysiantrumpetheroshotmedium.jpg"
             alt="Trumpet"></gallery-photo>
     <gallery-text>This is my favorite trumpets.</gallery-text>
     <gallery-photo
