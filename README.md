@@ -33,7 +33,7 @@
 ```
 
 ## Author
- * Nam Hoai Vo <vhnam2504@gmail.com>
+ * Nam Hoai Vo <<vhnam2504@gmail.com>>
 
 ## License
  * Copyright 2016 - MIT
