@@ -7,12 +7,12 @@
 ## Attributes
 
 ### Container
- * delay: Timeout for gallery (miliseconds).
- * color: Color for text of Gallery (Ex: FF4081).
+ * **delay**: Timeout for gallery (miliseconds).
+ * **color**: Color for text of Gallery (Ex: FF4081).
 
 ### Photo
- * src: Source of image
- * alt: Description of image
+ * **src**: Source of image
+ * **alt**: Description of image
 
 ## How to use
 
