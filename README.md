@@ -24,7 +24,7 @@
             alt="Trumpet"></gallery-photo>
     <gallery-text>This is my favorite trumpets.</gallery-text>
     <gallery-photo
-            src="hhttp://www.bachbrass.com/images/products/trumpets/180S37.jpg"
+            src="http://www.bachbrass.com/images/products/trumpets/180S37.jpg"
             alt="Vincent Bach Stradivarius 180S37"></gallery-photo>
     <gallery-photo
             src="http://i.imgur.com/7OikZl.jpg"
